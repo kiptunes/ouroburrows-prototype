@@ -1,0 +1,33 @@
+mechanics to learn:
+	1. reaching the goal
+	2. being unable to jump
+	3. climbing up walls 
+	4. jumping to reach walls one block above you
+	5. picking up coins, replacing them, and going through them
+	6. blowing out the lantern using a wind tunnel
+		-- LIGHT DRIVES AWAY OUROBOROS --
+	7. evading the ouroboros
+
+lvl 1:
+	(Introduce scene with rumbling)
+	goal on the other side of a gap, 
+	using walls to climb over the gap instead of jumping
+
+lvl 2:
+	goal on the other side of a floating platform
+	(Add rumbling at checkpoint)
+	grabbing walls above you, beside you
+
+lvl 2.5:
+	long hallway with a wind tunnel
+	wind tunnel blows out lantern
+	ouroboros gives chase
+	[press key to drop coin down hole]
+	ouroboros follows coin
+
+lvl 3:
+	relight lantern
+	wind tunnel at the other end of room
+	goal on floating platform that cannot be grabbed
+
+actual levels begin

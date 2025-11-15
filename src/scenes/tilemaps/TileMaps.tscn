@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dsheba8vevjy7"]
+
+[ext_resource type="TileSet" uid="uid://d032gj5q43a78" path="res://data/assets/tilemaps/BurrowsLight_Tilemap.tres" id="1_nt4dg"]
+
+[node name="TileMaps" type="Node2D"]
+
+[node name="BurrowsLight" type="TileMapLayer" parent="."]
+tile_set = ExtResource("1_nt4dg")
