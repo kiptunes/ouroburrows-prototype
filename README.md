@@ -16,7 +16,7 @@ The mechanic that I had trouble implementing, as mentioned earlier, was getting 
 Here are some more assets I made mostly when I got too frustrated with debugging:
 | CP1                                    | CP2                                    |
 | -------------------------------------- | -------------------------------------- |
-|![Player walk animation holding two coins.](/readme_files/walkcoins.gif) |
+|![Player walk animation holding two coins.](/readme_files/walkcoins.gif) <-- hard to see but this is the player walking while holding two coins. |
 | ![Splash 1](/readme_files/splash1.png) | ![Splash 2](/readme_files/splash2.png) |
 | ![Tilemap 1](/readme_files/tilemap1.png)| ![Tilemap 2](/readme_files/tilemap2.png) |
 
